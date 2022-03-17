@@ -1,0 +1,67 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.question{
+    margin: auto;
+    width: 50%;
+    height: 200px;
+    position: relative;
+    background-color: rgb(186, 246, 184);
+}
+
+.esp{
+    height: 150px;
+}
+
+.reponses{
+    margin: auto;
+    padding: 5%;
+    width: 70%;
+    height: 400px;
+
+}
+
+.lft{
+    float: left;
+}
+
+.rgt{
+    float: right;
+}
+
+.rep1{
+
+    width: 350px;
+    height: 100px;
+}
+
+.rep2{
+
+    width: 350px;
+    height: 100px;
+}
+
+.rep3{
+    margin-top: 50px;
+    width: 350px;
+    height: 100px;
+}
+
+.rep4{
+    margin-top: 50px;
+    width: 350px;
+    height: 100px;
+}
+
+
+
+#question{
+    text-align: center;
+    line-height: 100px;
+    font-size: 36px;
+}
+
+button{
+    font-size: 36px;
+}
